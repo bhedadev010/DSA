@@ -25,7 +25,7 @@ int binary_search(int arr[],int size,int element)
 }
 
 int main(){
-int element= 20;
+int element= 200;
 int arr[5]={10,20,30,40,50};
 int size = sizeof(arr)/sizeof(int);
 binary_search(arr,size,element);
