@@ -36,7 +36,7 @@ int bs(int arr[], int size, int element)
 }
 
 int main(){
-    int element = 6;
+    int element = 11;
     int arr[] = {1,2,3,4,5,6,7,8,9};
     int size = sizeof(arr)/sizeof(int);
     ls(arr,size,element);
